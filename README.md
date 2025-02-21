@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Kunal! 
 
-<!--
-**KUNAL712P/KUNAL712P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate about Generative AI, Prompt Engineering, and NLP.  
+🔍 Exploring AI-driven content generation & automation.  
+📌 Open to collaborations & opportunities in AI research and development.  
 
-Here are some ideas to get you started:
+## 🔧 Skills & Tools:
+- **Prompt Engineering**, **LLMs**, **NLP**, **Chatbots**
+- Python, LangChain, OpenAI API, Hugging Face  
+- AI Content Generation & Automation  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects:
+🔹 AI-Powered Prompt Library  
+🔹 NLP-based Chatbot for Automation  
+🔹 Content Generation using LLMs  
+
+## 🌍 Connect with me:
+[![LinkedIn]www.linkedin.com/in/ayush-gupta-81127a28b 
