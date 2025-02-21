@@ -15,4 +15,4 @@
 🔹 Content Generation using LLMs  
 
 ## 🌍 Connect with me:
-www.linkedin.com/in/ayush-gupta-81127a28b 
+https://www.linkedin.com/in/ayush-gupta-81127a28b
