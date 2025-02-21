@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kunal! 
+# 👋 Hi, I'm Ayush! 
 
 🚀 Passionate about Generative AI, Prompt Engineering, and NLP.  
 🔍 Exploring AI-driven content generation & automation.  
