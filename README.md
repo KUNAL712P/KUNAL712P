@@ -10,7 +10,7 @@ Open to collaborations & opportunities in AI research and development.
 - **Tools**: Git, Replit, Docker, AWS/GCP (Basics)  
 
 ### 🏆 **Projects**  
-1. **[Restaurant Chatbot](https://github.com/[KUNAL712P]/Restaurant-Chatbot-Project)**  
+1. **Restaurant Chatbot (https://github.com/KUNAL712P/Restaurant-Chatbot-Project)**  
    - Dialogflow + FastAPI + MySQL | Handles orders, payments, and tracking.  
 2. **AI Prompt Library**  
    - Curated prompts for LLMs (GPT-3.5, Claude, Mistral).  
