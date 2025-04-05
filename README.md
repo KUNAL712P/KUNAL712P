@@ -1,18 +1,22 @@
-# 👋 Hi, I'm Ayush! 
+# 👋 Hi, I'm Ayush 
 
-🚀 Passionate about Generative AI, Prompt Engineering, and NLP.  
-🔍 Exploring AI-driven content generation & automation.  
-📌 Open to collaborations & opportunities in AI research and development.  
+**Generative AI Developer | NLP & Chatbot Specialist**  
+Building intelligent systems with Python, Dialogflow/RASA, and LLMs. 
+Open to collaborations & opportunities in AI research and development.  
 
-## 🔧 Skills & Tools:
-- **Prompt Engineering**, **LLMs**, **NLP**, **Chatbots**
-- Python, LangChain, OpenAI API, Hugging Face  
-- AI Content Generation & Automation  
+### 🔥 **Skills**  
+- **AI/ML**: Prompt Engineering, NLP, OpenAI API, Hugging Face, LangChain  
+- **Backend**: Python, FastAPI, Flask, MySQL  
+- **Tools**: Git, Replit, Docker, AWS/GCP (Basics)  
 
-## 📂 Projects:
-🔹 AI-Powered Prompt Library  
-🔹 NLP-based Chatbot for Automation  
-🔹 Content Generation using LLMs  
+### 🏆 **Projects**  
+1. **[Restaurant Chatbot](https://github.com/[KUNAL712P]/Restaurant-Chatbot-Project)**  
+   - Dialogflow + FastAPI + MySQL | Handles orders, payments, and tracking.  
+2. **AI Prompt Library**  
+   - Curated prompts for LLMs (GPT-3.5, Claude, Mistral).  
+3. **NLP Automation Bot**  
+   - LangChain-powered chatbot for content generation.  
 
 ## 🌍 Connect with me:
-https://www.linkedin.com/in/ayush-gupta-81127a28b
+- LinkedIn: https://www.linkedin.com/in/ayush-gupta-81127a28b
+- Email: kg000712@gmail.com
